@@ -1,0 +1,13 @@
+h1
+{
+    text-align: center;
+}
+.pricing
+{
+    display: flex;
+    justify-content: center;
+}
+.individual__plan
+{
+    margin-left: 10px;
+}
